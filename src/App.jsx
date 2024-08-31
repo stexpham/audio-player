@@ -119,8 +119,11 @@ const Player = ({
     };
 
     const setAudioProgress = () => {
-      const bufferedPercentage = (audio.buffered.end(0) / audio.duration) * 100;
-      setBuffer(bufferedPercentage.toFixed(2));
+      if (audio.buffered.length > 0) {
+        const bufferedPercentage =
+          (audio.buffered.end(0) / audio.duration) * 100;
+        setBuffer(bufferedPercentage.toFixed(2));
+      }
     };
 
     const setAudioVolume = () => setVolume(audio.volume);
