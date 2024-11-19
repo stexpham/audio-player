@@ -42,6 +42,16 @@ const tracks = [
     title: "Jacky Cheung sax cover- Goodbye Kiss",
     tags: ["Instru"],
   },
+  {
+    url: "https://bucket.stepham.com/cdn/The%20Sound%20Of%20Silence%20by%20Wuauquikuna%20%20Panflute%20%20Toyos.mp3",
+    title: "The Sound Of Silence by Wuauquikuna Panflute Toyos",
+    tags: ["Instru"],
+  },
+  {
+    url: "https://bucket.stepham.com/cdn/Meditate.mp3",
+    title: "Meditate",
+    tags: ["Instru"],
+  },
 ];
 
 const App = () => {
