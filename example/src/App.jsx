@@ -52,6 +52,21 @@ const tracks = [
     title: "Meditate",
     tags: ["Instru"],
   },
+  {
+    url: "https://bucket.stepham.com/cdn/Sacred%20Pool%20Of%20Tears.mp3",
+    title: "Sacred Pool Of Tears",
+    tags: ["Instru"],
+  },
+  {
+    url: "https://bucket.stepham.com/cdn/can-not-forgive-cha-soo-kyung.mp3",
+    title: "Can not Forgive Cha Soo Kyung",
+    tags: ["Asia"],
+  },
+  {
+    url: "https://bucket.stepham.com/cdn/su-thanh-hoa.mp3",
+    title: "Su thanh hoa",
+    tags: ["Asia"],
+  },
 ];
 
 const App = () => {
