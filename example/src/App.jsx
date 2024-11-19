@@ -23,8 +23,8 @@ const tracks = [
     tags: ["house"],
   },
   {
-    url: "https://audioplayer.madza.dev/Madza-Late_Night_Drive.mp3",
-    title: "Madza - Late Night Drive",
+    url: "https://bucket.stepham.com/cdn/phaidaucuoctinhnganngan.mp3",
+    title: "Ngan Ngan - Phai Dau Cuoc Tinh",
     tags: ["dnb"],
   },
   {
