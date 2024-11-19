@@ -28,8 +28,8 @@ const tracks = [
     tags: ["Vietnam"],
   },
   {
-    url: "https://audioplayer.madza.dev/Madza-Persistence.mp3",
-    title: "Madza - Persistence",
+    url: "https://bucket.stepham.com/cdn/faded-jacla-remix-naxsy-douyin.mp3",
+    title: "faded - jacla remix naxsy douyin",
     tags: ["Instru"],
   },
 ];
