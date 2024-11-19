@@ -20,17 +20,17 @@ const tracks = [
   {
     url: "https://bucket.stepham.com/cdn/stromaepapaoutai.mp3",
     title: "stromae - papaoutai",
-    tags: ["house"],
+    tags: ["Intl"],
   },
   {
     url: "https://bucket.stepham.com/cdn/phaidaucuoctinhnganngan.mp3",
     title: "Ngan Ngan - Phai Dau Cuoc Tinh",
-    tags: ["dnb"],
+    tags: ["Vietnam"],
   },
   {
     url: "https://audioplayer.madza.dev/Madza-Persistence.mp3",
     title: "Madza - Persistence",
-    tags: ["dubstep"],
+    tags: ["Instru"],
   },
 ];
 

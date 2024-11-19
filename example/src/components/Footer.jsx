@@ -5,26 +5,26 @@ const Footer = () => {
   return (
     <div className={styles.wrapper}>
       <p className={styles.contribute}>
-        Have a suggestion?{" "}
+        Looking for new Open Source Tools?{" "}
         <a
           className="link"
           target="_blank"
           rel="noopener noreferrer"
-          href="https://github.com/madzadev/audio-player"
+          href="https://stepham.com"
         >
-          Contribute{" "}
+          Talk to Dev{" "}
         </a>
-        to the project!
+        here to help!
       </p>
       <p>
-        Audio player & music by{" "}
+        corner of{" "}
         <a
           className="link"
           target="_blank"
           rel="noopener noreferrer"
-          href="https://github.com/madzadev"
+          href="https://stepham.com"
         >
-          Madza
+          Stepham
         </a>
       </p>
     </div>
