@@ -20,7 +20,7 @@ const tracks = [
   {
     url: "https://bucket.stepham.com/cdn/stromaepapaoutai.mp3",
     title: "stromae - papaoutai",
-    tags: ["Intl"],
+    tags: ["World"],
   },
   {
     url: "https://bucket.stepham.com/cdn/phaidaucuoctinhnganngan.mp3",
@@ -31,6 +31,11 @@ const tracks = [
     url: "https://bucket.stepham.com/cdn/faded-jacla-remix-naxsy-douyin.mp3",
     title: "faded - jacla remix naxsy douyin",
     tags: ["Instru"],
+  },
+  {
+    url: "https://bucket.stepham.com/cdn/SashaAlexSloan-DancingWithYourGhost.mp3",
+    title: "Sasha Alex Sloan - Dancing With Your Ghost",
+    tags: ["World"],
   },
 ];
 
