@@ -67,6 +67,11 @@ const tracks = [
     title: "Su thanh hoa",
     tags: ["Asia"],
   },
+  {
+    url: "https://bucket.stepham.com/cdn/Mary%20On%20A%20Cross%20Slowed%20Reverb%20Ghost.mp3",
+    title: "Mary On A Cross Slowed Reverb Ghost",
+    tags: ["World"],
+  },
 ];
 
 const App = () => {
