@@ -72,6 +72,21 @@ const tracks = [
     title: "Mary On A Cross Slowed Reverb Ghost",
     tags: ["World"],
   },
+  {
+    url: "http://stephanie.dreamhosters.com/music_backup/thailandsongneedtofindname.mp3",
+    title: "Campuchia Song",
+    tags: ["Asia"],
+  },
+  {
+    url: "http://stephanie.dreamhosters.com/music_backup/stereohearts.mp3",
+    title: "Stereo Hearts",
+    tags: ["World"],
+  },
+  {
+    url: "http://stephanie.dreamhosters.com/music_backup/729656166.mp3",
+    title: "729656166",
+    tags: ["Asia"],
+  },
 ];
 
 const App = () => {
